@@ -35,4 +35,4 @@ for(let score of studentList.scores) {
   score = scores + 5;
   console.log(studentList)
 }
-// I was not able to understand how to loop to update the scores and loop to do the average and add that score. I would like to work this out with you in class or in office hours.
+// I was not able to understand how to loop to update the scores and loop to do the average and add that score. I would like to work this out with you in class or in office hours
